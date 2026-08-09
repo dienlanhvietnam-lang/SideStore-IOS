@@ -1,0 +1,1199 @@
+/* English source strings — auto-extracted. Do not edit by hand if re-running extract. */
+
+"%@ %@" = "%@ %@";
+
+"%@ %@ is now available for download." = "%@ %@ is now available for download.";
+
+"%@ %@ update. Released on %@." = "%@ %@ update. Released on %@.";
+
+"%@ App IDs" = "%@ App IDs";
+
+"%@ App IDs Remaining" = "%@ App IDs Remaining";
+
+"%@ beta" = "%@ beta";
+
+"%@ by %@" = "%@ by %@";
+
+"%@ could not be backed up." = "%@ could not be backed up.";
+
+"%@ could not be found." = "%@ could not be found.";
+
+"%@ could not be restored." = "%@ could not be restored.";
+
+"%@ DAYS" = "%@ DAYS";
+
+"%@ does not have any app versions." = "%@ does not have any app versions.";
+
+"%@ does not support iOS %@." = "%@ does not support iOS %@.";
+
+"%@ error %@." = "%@ error %@.";
+
+"%@ failed with code %@." = "%@ failed with code %@.";
+
+"%@ failed." = "%@ failed.";
+
+"%@ is currently locked." = "%@ is currently locked.";
+
+"%@ is inactive." = "%@ is inactive.";
+
+"%@ is not added to SideStore." = "%@ is not added to SideStore.";
+
+"%@ is not currently running on %@." = "%@ is not currently running on %@.";
+
+"%@ News" = "%@ News";
+
+"%@ received an invalid request from SideStore." = "%@ received an invalid request from SideStore.";
+
+"%@ requires %@ App IDs, but %@." = "%@ requires %@ App IDs, but %@.";
+
+"%@ requires %@ or later." = "%@ requires %@ or later.";
+
+"%@ requires additional permissions not specified by the source." = "%@ requires additional permissions not specified by the source.";
+
+"%@ requires an active pledge in order to be installed." = "%@ requires an active pledge in order to be installed.";
+
+"%@ requires iOS %@ or earlier." = "%@ requires iOS %@ or earlier.";
+
+"%@ requires iOS %@ or later." = "%@ requires iOS %@ or later.";
+
+"%@ requires more permissions than the version that is already installed" = "%@ requires more permissions than the version that is already installed";
+
+"%@ returned unexpected output." = "%@ returned unexpected output.";
+
+"%@ timed out." = "%@ timed out.";
+
+"%@ unexpectedly quit." = "%@ unexpectedly quit.";
+
+"%@ Unsupported Updates Available" = "%@ Unsupported Updates Available";
+
+"1 App ID" = "1 App ID";
+
+"1 App ID Remaining" = "1 App ID Remaining";
+
+"^[\\(numberOfApps) app](inflect: true)" = "^[\\(numberOfApps) app](inflect: true)";
+
+"A connection to AltServer could not be established." = "A connection to AltServer could not be established.";
+
+"A permission for %@ is missing a usage description." = "A permission for %@ is missing a usage description.";
+
+"A random error occurred." = "A random error occurred.";
+
+"A source cannot change its identifier once added. This source can no longer be updated." = "A source cannot change its identifier once added. This source can no longer be updated.";
+
+"A source with the identifier '%@' already exists" = "A source with the identifier '%@' already exists";
+
+"About" = "About";
+
+"ACCOUNT" = "ACCOUNT";
+
+"ACTIVATE" = "ACTIVATE";
+
+"Activate" = "Activate";
+
+"Activate %@" = "Activate %@";
+
+"Activate %@ Failed" = "Activate %@ Failed";
+
+"Active" = "Active";
+
+"ADD" = "ADD";
+
+"Add More Sources!" = "Add More Sources!";
+
+"Add Source" = "Add Source";
+
+"Additional Permissions" = "Additional Permissions";
+
+"ADVANCED SETTINGS" = "ADVANCED SETTINGS";
+
+"AFC was unable to manage files on the device." = "AFC was unable to manage files on the device.";
+
+"all apps downloaded from it." = "all apps downloaded from it.";
+
+"All apps have been refreshed." = "All apps have been refreshed.";
+
+"AltServer could not be found." = "AltServer could not be found.";
+
+"AltServer could not connect to Mail plug-in." = "AltServer could not connect to Mail plug-in.";
+
+"AltServer could not establish a connection to SideStore." = "AltServer could not establish a connection to SideStore.";
+
+"an app in source “%@”" = "an app in source “%@”";
+
+"An error occured while removing the app." = "An error occured while removing the app.";
+
+"An error occurred while clearing the cache: %@" = "An error occurred while clearing the cache: %@";
+
+"An error occurred while getting anisette data from a V1 server: %@. Try using another anisette server." = "An error occurred while getting anisette data from a V1 server: %@. Try using another anisette server.";
+
+"An error occurred while getting anisette data from a V3 server: %@. Please try again. If the issue persists, report it on GitHub Issues!" = "An error occurred while getting anisette data from a V3 server: %@. Please try again. If the issue persists, report it on GitHub Issues!";
+
+"An error occurred while installing the app." = "An error occurred while installing the app.";
+
+"An error occurred while provisioning: %@. Please try again. If the issue persists, report it on GitHub Issues!" = "An error occurred while provisioning: %@. Please try again. If the issue persists, report it on GitHub Issues!";
+
+"An error occurred while using SideJIT: %@" = "An error occurred while using SideJIT: %@";
+
+"An iPad screenshot for %@ does not specify its size" = "An iPad screenshot for %@ does not specify its size";
+
+"An unknown error occured." = "An unknown error occured.";
+
+"An unknown error occurred." = "An unknown error occurred.";
+
+"Any apps you've installed from this source will remain, but they'll no longer receive any app updates." = "Any apps you've installed from this source will remain, but they'll no longer receive any app updates.";
+
+"App" = "App";
+
+"App Contains Extensions" = "App Contains Extensions";
+
+"app extension" = "app extension";
+
+"app extensions" = "app extensions";
+
+"App Refresh Tip" = "App Refresh Tip";
+
+"AppID Customization" = "AppID Customization";
+
+"Approve" = "Approve";
+
+"Are you sure to reset the pairing file?" = "Are you sure to reset the pairing file?";
+
+"Are you sure you want to clear SideStore's cache?\\n\\nCache Size: %@" = "Are you sure you want to clear SideStore's cache?\\n\\nCache Size: %@";
+
+"Are you sure you want to clear the error log?" = "Are you sure you want to clear the error log?";
+
+"Are you sure you want to delete the backup for this app? This action cannot be undone." = "Are you sure you want to delete the backup for this app? This action cannot be undone.";
+
+"Are you sure you want to proceed to delete %d appIds?" = "Are you sure you want to proceed to delete %d appIds?";
+
+"Are you sure you want to remove the source “%@”?" = "Are you sure you want to remove the source “%@”?";
+
+"Are you sure you want to restore this backup?" = "Are you sure you want to restore this backup?";
+
+"Are you sure you want to revoke this certificate? This will permanently delete the certificate on Apple's servers." = "Are you sure you want to revoke this certificate? This will permanently delete the certificate on Apple's servers.";
+
+"Are you sure you want to sign out? You will no longer be able to install or refresh apps once you sign out." = "Are you sure you want to sign out? You will no longer be able to install or refresh apps once you sign out.";
+
+"At least one app" = "At least one app";
+
+"Back Up %@" = "Back Up %@";
+
+"Backup" = "Backup";
+
+"Backup %@ Failed" = "Backup %@ Failed";
+
+"Backup & Restore" = "Backup & Restore";
+
+"Backup Error" = "Backup Error";
+
+"BETA TESTING" = "BETA TESTING";
+
+"Browse" = "Browse";
+
+"Bundle ID Mismatch" = "Bundle ID Mismatch";
+
+"Bundle ID Mismatch: %@" = "Bundle ID Mismatch: %@";
+
+"Calculating…" = "Calculating…";
+
+"Cancel" = "Cancel";
+
+"Cannot Activate More than 3 Apps" = "Cannot Activate More than 3 Apps";
+
+"Cannot Activate More than 3 Apps and App Extensions" = "Cannot Activate More than 3 Apps and App Extensions";
+
+"Cannot fetch %@ from the device." = "Cannot fetch %@ from the device.";
+
+"Cannot fetch the device from the muxer" = "Cannot fetch the device from the muxer";
+
+"Cannot register more than 10 App IDs within a 7 day period." = "Cannot register more than 10 App IDs within a 7 day period.";
+
+"Cannot Send Mail" = "Cannot Send Mail";
+
+"Cannot set %@ on the device." = "Cannot set %@ on the device.";
+
+"Cannot start a %@ server on the device." = "Cannot start a %@ server on the device.";
+
+"CarPlay" = "CarPlay";
+
+"Categories" = "Categories";
+
+"Certificate" = "Certificate";
+
+"Change App Icon" = "Change App Icon";
+
+"Change Certificate" = "Change Certificate";
+
+"Change Icon" = "Change Icon";
+
+"Choose App Extensions" = "Choose App Extensions";
+
+"Classic" = "Classic";
+
+"Clear Cache" = "Clear Cache";
+
+"Clear Error Log" = "Clear Error Log";
+
+"Confirm" = "Confirm";
+
+"Confirm applying this certificate:" = "Confirm applying this certificate:";
+
+"Connect to a Wi-Fi network, Bridge or a Wired network connection!" = "Connect to a Wi-Fi network, Bridge or a Wired network connection!";
+
+"Connection error code: %@" = "Connection error code: %@";
+
+"Continue" = "Continue";
+
+"Copy Error Code" = "Copy Error Code";
+
+"Copy Error Message" = "Copy Error Message";
+
+"Could not back up “%@”." = "Could not back up “%@”.";
+
+"Could not connect to SideStore." = "Could not connect to SideStore.";
+
+"Could not find profile" = "Could not find profile";
+
+"Could not refresh %@ sources." = "Could not refresh %@ sources.";
+
+"Could not refresh source “%@”." = "Could not refresh source “%@”.";
+
+"Could not refresh store." = "Could not refresh store.";
+
+"Could not restore “%@”." = "Could not restore “%@”.";
+
+"Create Backup" = "Create Backup";
+
+"CREDITS" = "CREDITS";
+
+"Custom Certificate Expired" = "Custom Certificate Expired";
+
+"Custom Certificate Revoked" = "Custom Certificate Revoked";
+
+"Customize the AppID if required and press 'Confirm' to proceed." = "Customize the AppID if required and press 'Confirm' to proceed.";
+
+"Deactivate" = "Deactivate";
+
+"Deactivate %@ Failed" = "Deactivate %@ Failed";
+
+"Debug" = "Debug";
+
+"Debug Description" = "Debug Description";
+
+"Default" = "Default";
+
+"Delete" = "Delete";
+
+"Delete and Reset" = "Delete and Reset";
+
+"Delete App" = "Delete App";
+
+"Delete App IDs" = "Delete App IDs";
+
+"Delete Backup" = "Delete Backup";
+
+"Delete Backup for “%@”?" = "Delete Backup for “%@”?";
+
+"Delete Failed" = "Delete Failed";
+
+"Delete sideloaded apps to free up App ID slots." = "Delete sideloaded apps to free up App ID slots.";
+
+"Deleted %d of %d App IDs.\\n\\nError:\\n%@" = "Deleted %d of %d App IDs.\\n\\nError:\\n%@";
+
+"Deleted %d of %d App IDs.\\n\\nFailed to delete %@ (%@):\\n%@" = "Deleted %d of %d App IDs.\\n\\nFailed to delete %@ (%@):\\n%@";
+
+"Deleting App IDs (%d/%d)..." = "Deleting App IDs (%d/%d)...";
+
+"Deleting App IDs (0/%d)..." = "Deleting App IDs (0/%d)...";
+
+"Developer" = "Developer";
+
+"Developer Options" = "Developer Options";
+
+"Device did not contain service" = "Device did not contain service";
+
+"Device is not locatable at the specified IP/Endpoint." = "Device is not locatable at the specified IP/Endpoint.";
+
+"DIAGNOSTICS" = "DIAGNOSTICS";
+
+"Disable" = "Disable";
+
+"DISPLAY" = "DISPLAY";
+
+"Do you want to export your certificate to an external app? That app will be able to sign apps using your certificate." = "Do you want to export your certificate to an external app? That app will be able to sign apps using your certificate.";
+
+"Download %@" = "Download %@";
+
+"Download %@ %@" = "Download %@ %@";
+
+"Downloading %@…" = "Downloading %@…";
+
+"duplicate versions" = "duplicate versions";
+
+"Edit" = "Edit";
+
+"Enable" = "Enable";
+
+"Enable Background Refresh to automatically refresh apps in the background when connected to Wi-Fi. \\n\\nEnable Disable Idle Timeout to allow SideStore to keep your device awake during a refresh or install of any apps." = "Enable Background Refresh to automatically refresh apps in the background when connected to Wi-Fi. \\n\\nEnable Disable Idle Timeout to allow SideStore to keep your device awake during a refresh or install of any apps.";
+
+"Enable JIT" = "Enable JIT";
+
+"Enable JIT for %@ Failed" = "Enable JIT for %@ Failed";
+
+"Enter a source's URL below, or add one of the recommended sources." = "Enter a source's URL below, or add one of the recommended sources.";
+
+"Entertainment" = "Entertainment";
+
+"Entitlement" = "Entitlement";
+
+"Entitlements are additional permissions that grant access to certain system services, including potentially sensitive information." = "Entitlements are additional permissions that grant access to certain system services, including potentially sensitive information.";
+
+"Error" = "Error";
+
+"Error code: %@" = "Error code: %@";
+
+"Error Description" = "Error Description";
+
+"Error Details" = "Error Details";
+
+"Error presenting team selector view." = "Error presenting team selector view.";
+
+"Errors that occur when sideloading or refreshing apps will appear here." = "Errors that occur when sideloading or refreshing apps will appear here.";
+
+"Experimental Features" = "Experimental Features";
+
+"EXPIRED" = "EXPIRED";
+
+"Expires in" = "Expires in";
+
+"Export" = "Export";
+
+"Export Account" = "Export Account";
+
+"Export Backup" = "Export Backup";
+
+"Export Certificate" = "Export Certificate";
+
+"Failed to Activate %@" = "Failed to Activate %@";
+
+"Failed to Backup %@" = "Failed to Backup %@";
+
+"Failed to Clear Error Log" = "Failed to Clear Error Log";
+
+"Failed to Deactivate %@" = "Failed to Deactivate %@";
+
+"Failed to Enable JIT for %@" = "Failed to Enable JIT for %@";
+
+"Failed to encode pairingFile!" = "Failed to encode pairingFile!";
+
+"Failed to export account data!" = "Failed to export account data!";
+
+"Failed to export account!" = "Failed to export account!";
+
+"Failed to find certificate or password" = "Failed to find certificate or password";
+
+"Failed to find Pairing File!" = "Failed to find Pairing File!";
+
+"Failed to import account certificate!" = "Failed to import account certificate!";
+
+"Failed to import account JSON!" = "Failed to import account JSON!";
+
+"Failed to initialize callback URL!" = "Failed to initialize callback URL!";
+
+"Failed to Install %@" = "Failed to Install %@";
+
+"Failed to Refresh %@" = "Failed to Refresh %@";
+
+"Failed to refresh %@ apps." = "Failed to refresh %@ apps.";
+
+"Failed to refresh %@ Sources" = "Failed to refresh %@ Sources";
+
+"Failed to refresh 1 app." = "Failed to refresh 1 app.";
+
+"Failed to Refresh Apps" = "Failed to Refresh Apps";
+
+"Failed to refresh Source '%@'" = "Failed to refresh Source '%@'";
+
+"Failed to refresh Store" = "Failed to refresh Store";
+
+"Failed to Remove %@" = "Failed to Remove %@";
+
+"Failed to Resign %@" = "Failed to Resign %@";
+
+"Failed to Resign SideStore" = "Failed to Resign SideStore";
+
+"Failed to Restore %@ Backup" = "Failed to Restore %@ Backup";
+
+"Failed to Sign In" = "Failed to Sign In";
+
+"Failed to Update %@" = "Failed to Update %@";
+
+"Failure" = "Failure";
+
+"Failure Reason" = "Failure Reason";
+
+"Fault" = "Fault";
+
+"Featured" = "Featured";
+
+"Featured Apps" = "Featured Apps";
+
+"File Password" = "File Password";
+
+"For your protection, please remove the source and uninstall" = "For your protection, please remove the source and uninstall";
+
+"Free" = "Free";
+
+"Free Developer Account" = "Free Developer Account";
+
+"Free developer accounts are limited to 1 active signing certificate. Since the private key for the active certificate was not found on this device, SideStore will create a new certificate. This will automatically revoke the active certificate, which may disable installations on other devices or made by Xcode." = "Free developer accounts are limited to 1 active signing certificate. Since the private key for the active certificate was not found on this device, SideStore will create a new certificate. This will automatically revoke the active certificate, which may disable installations on other devices or made by Xcode.";
+
+"Free up disk space by removing non-essential data, such as temporary files and backups for uninstalled apps." = "Free up disk space by removing non-essential data, such as temporary files and backups for uninstalled apps.";
+
+"Games" = "Games";
+
+"Gradient" = "Gradient";
+
+"Help" = "Help";
+
+"If you're using the MacDirtyCow exploit to remove the 3-app limit, you can install up to 10 apps and app extensions instead." = "If you're using the MacDirtyCow exploit to remove the 3-app limit, you can install up to 10 apps and app extensions instead.";
+
+"If you've removed the 3-sideloaded app limit via the MacDirtyCow exploit, disable this setting to sideload more than 3 apps at a time." = "If you've removed the 3-sideloaded app limit via the MacDirtyCow exploit, disable this setting to sideload more than 3 apps at a time.";
+
+"Import a valid mobiledevicepairing file." = "Import a valid mobiledevicepairing file.";
+
+"Import Backup" = "Import Backup";
+
+"Inactive" = "Inactive";
+
+"Include Account Password" = "Include Account Password";
+
+"Incorrect SideJITServer IP. Please make sure that you are on the same Wi-Fi as SideJITServer" = "Incorrect SideJITServer IP. Please make sure that you are on the same Wi-Fi as SideJITServer";
+
+"Info" = "Info";
+
+"Install" = "Install";
+
+"Install %@" = "Install %@";
+
+"Install %@ Failed" = "Install %@ Failed";
+
+"Install App" = "Install App";
+
+"Installed" = "Installed";
+
+"Invalid Operation Context%@" = "Invalid Operation Context%@";
+
+"Invalid pairing configuration (%@ protocol): %@" = "Invalid pairing configuration (%@ protocol): %@";
+
+"Invalid Pairing File" = "Invalid Pairing File";
+
+"Invalid pairing file (%@ protocol): %@. Please use iloader to replace it." = "Invalid pairing file (%@ protocol): %@. Please use iloader to replace it.";
+
+"Invalid pairing file. Your pairing file either didn't have a UDID, or it wasn't a valid plist. Please use iloader to replace it." = "Invalid pairing file. Your pairing file either didn't have a UDID, or it wasn't a valid plist. Please use iloader to replace it.";
+
+"Invalid parameters%@" = "Invalid parameters%@";
+
+"Invalid VPN configuration" = "Invalid VPN configuration";
+
+"iOS %@ or earlier" = "iOS %@ or earlier";
+
+"iOS %@ or later" = "iOS %@ or later";
+
+"iOS 17.0-17.3.1 changed how JIT is enabled so SideStore cannot enable JIT without SideJITServer on these versions, sorry for any inconvenience." = "iOS 17.0-17.3.1 changed how JIT is enabled so SideStore cannot enable JIT without SideJITServer on these versions, sorry for any inconvenience.";
+
+"Keep Anisette data" = "Keep Anisette data";
+
+"Keep App Extensions (Register App ID for Each Extension)" = "Keep App Extensions (Register App ID for Each Extension)";
+
+"Keep App Extensions (Use Main Profile)" = "Keep App Extensions (Use Main Profile)";
+
+"Keep Local Certificate" = "Keep Local Certificate";
+
+"Keep signing certificate" = "Keep signing certificate";
+
+"Keychain authentication failed." = "Keychain authentication failed.";
+
+"Keychain item already exists." = "Keychain item already exists.";
+
+"Keychain item not found." = "Keychain item not found.";
+
+"Keychain security error." = "Keychain security error.";
+
+"Last Updated" = "Last Updated";
+
+"Last Updated: %@" = "Last Updated: %@";
+
+"Less" = "Less";
+
+"Lifestyle" = "Lifestyle";
+
+"Loading..." = "Loading...";
+
+"Lost connection to SideStore." = "Lost connection to SideStore.";
+
+"MACDIRTYCOW" = "MACDIRTYCOW";
+
+"Mail has been automatically opened, try again in a moment. Otherwise, make sure plug-in is enabled in Mail's preferences." = "Mail has been automatically opened, try again in a moment. Otherwise, make sure plug-in is enabled in Mail's preferences.";
+
+"Make sure LocalDevVPN is connected and running!" = "Make sure LocalDevVPN is connected and running!";
+
+"Make sure the app is running in the foreground on %@ then try again." = "Make sure the app is running in the foreground on %@ then try again.";
+
+"Make sure to only add sources that you trust." = "Make sure to only add sources that you trust.";
+
+"Make sure you have trusted this device with your computer and Wi-Fi sync is enabled." = "Make sure you have trusted this device with your computer and Wi-Fi sync is enabled.";
+
+"Make sure you're on the same Wi-Fi network as a computer running AltServer, or try connecting this device to your computer via USB." = "Make sure you're on the same Wi-Fi network as a computer running AltServer, or try connecting this device to your computer via USB.";
+
+"Minimuxer has not been started yet.\\n\\nPlease complete pairing or start minimuxer before performing operations." = "Minimuxer has not been started yet.\\n\\nPlease complete pairing or start minimuxer before performing operations.";
+
+"Minimuxer has not been started: %@" = "Minimuxer has not been started: %@";
+
+"Modern" = "Modern";
+
+"More" = "More";
+
+"Mount failed (%@ protocol): %@" = "Mount failed (%@ protocol): %@";
+
+"My Apps" = "My Apps";
+
+"Name" = "Name";
+
+"Never" = "Never";
+
+"New & Updated" = "New & Updated";
+
+"New Update Available" = "New Update Available";
+
+"No" = "No";
+
+"No $(BASE64_CERT) placeholder found" = "No $(BASE64_CERT) placeholder found";
+
+"No active apps require refreshing." = "No active apps require refreshing.";
+
+"No Apps" = "No Apps";
+
+"No Errors" = "No Errors";
+
+"No pairing file loaded: %@" = "No pairing file loaded: %@";
+
+"No Refresh Attempts" = "No Refresh Attempts";
+
+"No Signing Certificates" = "No Signing Certificates";
+
+"No Updates Available" = "No Updates Available";
+
+"No valid signing certificates with private keys were found locally. Please import or create a certificate in Settings -> Certificates first." = "No valid signing certificates with private keys were found locally. Please import or create a certificate in Settings -> Certificates first.";
+
+"Non-developer Apple IDs are limited to 3 active apps and app extensions, and \\\"%@\\\" contains %@ %@. Please choose an app to deactivate." = "Non-developer Apple IDs are limited to 3 active apps and app extensions, and \\\"%@\\\" contains %@ %@. Please choose an app to deactivate.";
+
+"Non-developer Apple IDs are limited to 3 active apps and app extensions." = "Non-developer Apple IDs are limited to 3 active apps and app extensions.";
+
+"Non-developer Apple IDs are limited to 3 active apps and app extensions. Please choose an app to deactivate." = "Non-developer Apple IDs are limited to 3 active apps and app extensions. Please choose an app to deactivate.";
+
+"Non-developer Apple IDs are limited to 3 active apps. Please choose an app to deactivate." = "Non-developer Apple IDs are limited to 3 active apps. Please choose an app to deactivate.";
+
+"Non-developer Apple IDs are limited to 3 apps and app extensions. Inactive apps don't count towards your total, but cannot be opened until activated." = "Non-developer Apple IDs are limited to 3 apps and app extensions. Inactive apps don't count towards your total, but cannot be opened until activated.";
+
+"Non-developer Apple IDs are limited to 3 apps. Inactive apps are backed up and uninstalled so they don't count towards your total, but will be reinstalled with all their data when activated again." = "Non-developer Apple IDs are limited to 3 apps. Inactive apps are backed up and uninstalled so they don't count towards your total, but will be reinstalled with all their data when activated again.";
+
+"Non-developer Apple IDs are limited to creating 10 App IDs per week." = "Non-developer Apple IDs are limited to creating 10 App IDs per week.";
+
+"none are available" = "none are available";
+
+"Notice" = "Notice";
+
+"OK" = "OK";
+
+"one or more apps" = "one or more apps";
+
+"One or more apps in source “%@” are missing a marketplaceID. This most likely means they are not notarized, which is not supported by this version of SideStore." = "One or more apps in source “%@” are missing a marketplaceID. This most likely means they are not notarized, which is not supported by this version of SideStore.";
+
+"only %@ are available" = "only %@ are available";
+
+"only 1 is available" = "only 1 is available";
+
+"Open" = "Open";
+
+"Open %@" = "Open %@";
+
+"Operation Failed" = "Operation Failed";
+
+"Organization" = "Organization";
+
+"Other" = "Other";
+
+"Other Entitlements" = "Other Entitlements";
+
+"Pairing File" = "Pairing File";
+
+"Pairing File Reset" = "Pairing File Reset";
+
+"Pairing Required" = "Pairing Required";
+
+"Pairing Required:\\nWithout a valid pairing file, SideStore operations cannot connect to your device. Please pair your device or import a valid pairing file." = "Pairing Required:\\nWithout a valid pairing file, SideStore operations cannot connect to your device. Please pair your device or import a valid pairing file.";
+
+"Permission" = "Permission";
+
+"Personalize your SideStore experience by choosing an alternate app icon." = "Personalize your SideStore experience by choosing an alternate app icon.";
+
+"Photo & Video" = "Photo & Video";
+
+"Photos" = "Photos";
+
+"Please deactivate a sideloaded app in order to install another one.\\n\\nIf you're running iOS 13.5 or later, make sure “Offload Unused Apps” is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps." = "Please deactivate a sideloaded app in order to install another one.\\n\\nIf you're running iOS 13.5 or later, make sure “Offload Unused Apps” is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps.";
+
+"Please deactivate a sideloaded app with SideStore in order to install another app.\\n\\nIf you're running iOS 13.5 or later, make sure 'Offload Unused Apps' is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps to prevent them from erroneously counting towards this limit." = "Please deactivate a sideloaded app with SideStore in order to install another app.\\n\\nIf you're running iOS 13.5 or later, make sure 'Offload Unused Apps' is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps to prevent them from erroneously counting towards this limit.";
+
+"Please enter the 6-digit verification code that was sent to your Apple devices." = "Please enter the 6-digit verification code that was sent to your Apple devices.";
+
+"Please make sure your spelling is correct, or try searching for another app." = "Please make sure your spelling is correct, or try searching for another app.";
+
+"Please remove the existing source in order to add this one." = "Please remove the existing source in order to add this one.";
+
+"Please restart SideStore" = "Please restart SideStore";
+
+"Please try again later." = "Please try again later.";
+
+"Please unlock the device with your passcode and try again." = "Please unlock the device with your passcode and try again.";
+
+"Pledge" = "Pledge";
+
+"Privacy Permission" = "Privacy Permission";
+
+"Proceed" = "Proceed";
+
+"Reason:" = "Reason:";
+
+"Recessed" = "Recessed";
+
+"Recommended Sources" = "Recommended Sources";
+
+"Recovery Suggestion" = "Recovery Suggestion";
+
+"Refresh" = "Refresh";
+
+"Refresh %@" = "Refresh %@";
+
+"Refresh %@ Failed" = "Refresh %@ Failed";
+
+"Refresh %@ in SideStore to continue using it." = "Refresh %@ in SideStore to continue using it.";
+
+"Refresh All" = "Refresh All";
+
+"Refreshed Apps" = "Refreshed Apps";
+
+"Refreshing" = "Refreshing";
+
+"REFRESHING APPS" = "REFRESHING APPS";
+
+"Remove" = "Remove";
+
+"REMOVE" = "REMOVE";
+
+"Remove %@ Failed" = "Remove %@ Failed";
+
+"Remove App Extensions" = "Remove App Extensions";
+
+"Remove Icon" = "Remove Icon";
+
+"Remove Source" = "Remove Source";
+
+"Remove “%@” from SideStore?" = "Remove “%@” from SideStore?";
+
+"Reset Certificate" = "Reset Certificate";
+
+"Resign" = "Resign";
+
+"Resign %@ Failed" = "Resign %@ Failed";
+
+"Resign Later" = "Resign Later";
+
+"Resign Now" = "Resign Now";
+
+"Restart already in progress" = "Restart already in progress";
+
+"Restore %@ Failed" = "Restore %@ Failed";
+
+"Restore Backup" = "Restore Backup";
+
+"Restore Previous Backup" = "Restore Previous Backup";
+
+"Retry" = "Retry";
+
+"Review Permissions" = "Review Permissions";
+
+"Revoke" = "Revoke";
+
+"Revoke and Resign Now" = "Revoke and Resign Now";
+
+"Revoke Certificate" = "Revoke Certificate";
+
+"REVOKED" = "REVOKED";
+
+"Same Certificate" = "Same Certificate";
+
+"Search FAQ" = "Search FAQ";
+
+"See All" = "See All";
+
+"Select File" = "Select File";
+
+"Select the pairing file or select \\\"Help\\\" for help." = "Select the pairing file or select \\\"Help\\\" for help.";
+
+"Server Address" = "Server Address";
+
+"Service version was in an unexpected format" = "Service version was in an unexpected format";
+
+"Set & Resign" = "Set & Resign";
+
+"Set Certificate" = "Set Certificate";
+
+"Set Certificate Confirmation" = "Set Certificate Confirmation";
+
+"Settings for SideJITServer" = "Settings for SideJITServer";
+
+"SideBackup could not start" = "SideBackup could not start";
+
+"SideJITServer" = "SideJITServer";
+
+"SideJITServer is unable to connect to your iDevice. Please make sure you have paired your iDevice by running 'SideJITServer -y', or try refreshing SideJITServer from Settings." = "SideJITServer is unable to connect to your iDevice. Please make sure you have paired your iDevice by running 'SideJITServer -y', or try refreshing SideJITServer from Settings.";
+
+"Sideloaded" = "Sideloaded";
+
+"SideStore can only install marketplace apps that have been notarized by Apple." = "SideStore can only install marketplace apps that have been notarized by Apple.";
+
+"SideStore cannot manage the existing certificate without owning its private key. The apps signed with the existing certificate will expire soon unless they are resigned and renewed explicitly by SideStore." = "SideStore cannot manage the existing certificate without owning its private key. The apps signed with the existing certificate will expire soon unless they are resigned and renewed explicitly by SideStore.";
+
+"SideStore could not determine this device's UDID. Please replace your pairing using iloader." = "SideStore could not determine this device's UDID. Please replace your pairing using iloader.";
+
+"SideStore could not establish a secure connection to %@." = "SideStore could not establish a secure connection to %@.";
+
+"SideStore could not find this device." = "SideStore could not find this device.";
+
+"SideStore could not write data to this device." = "SideStore could not write data to this device.";
+
+"SideStore does not have detailed information for these entitlements." = "SideStore does not have detailed information for these entitlements.";
+
+"SideStore does not support this request." = "SideStore does not support this request.";
+
+"SideStore is unable to reach the device endpoint.\\n\\nPlease check your Connection Configuration in Settings to ensure the IP and endpoint are correct." = "SideStore is unable to reach the device endpoint.\\n\\nPlease check your Connection Configuration in Settings to ensure the IP and endpoint are correct.";
+
+"SideStore needs to deactivate another app before installing %@." = "SideStore needs to deactivate another app before installing %@.";
+
+"SideStore News" = "SideStore News";
+
+"SideStore received an invalid request." = "SideStore received an invalid request.";
+
+"SideStore received an invalid response from %@." = "SideStore received an invalid response from %@.";
+
+"SideStore received an unknown response from SideStore." = "SideStore received an unknown response from SideStore.";
+
+"SideStore sent an invalid response." = "SideStore sent an invalid response.";
+
+"SideStore was denied permission to launch %@." = "SideStore was denied permission to launch %@.";
+
+"SideStore was installed by a different signing tool (like Xcode or AltStore)." = "SideStore was installed by a different signing tool (like Xcode or AltStore).";
+
+"SideStore's connection to %@ timed out." = "SideStore's connection to %@ timed out.";
+
+"SideStore's database could not be saved." = "SideStore's database could not be saved.";
+
+"SideStore's shared app group could not be accessed." = "SideStore's shared app group could not be accessed.";
+
+"Sign in with your Apple ID to download apps from SideStore." = "Sign in with your Apple ID to download apps from SideStore.";
+
+"SIGN OUT" = "SIGN OUT";
+
+"Sign Out" = "Sign Out";
+
+"Signing certificate mismatch detected." = "Signing certificate mismatch detected.";
+
+"Skip" = "Skip";
+
+"Social" = "Social";
+
+"Sort by…" = "Sort by…";
+
+"Source File" = "Source File";
+
+"Source Line" = "Source Line";
+
+"Sources determine what apps are available in SideStore. The more sources you add, the better your SideStore experience will be.\\n\\nDon’t know where to start? Try adding one of our Recommended Sources!" = "Sources determine what apps are available in SideStore. The more sources you add, the better your SideStore experience will be.\\n\\nDon’t know where to start? Try adding one of our Recommended Sources!";
+
+"Start Backup?" = "Start Backup?";
+
+"Success" = "Success";
+
+"Successfully imported '\\(account.email)'!" = "Successfully imported '\\(account.email)'!";
+
+"Successfully imported '\\(email)'!" = "Successfully imported '\\(email)'!";
+
+"Support the SideStore Team by following our socials or becoming a patron!" = "Support the SideStore Team by following our socials or becoming a patron!";
+
+"SUPPORT US" = "SUPPORT US";
+
+"Tap to view progress." = "Tap to view progress.";
+
+"Tap to view source errors." = "Tap to view source errors.";
+
+"Target bundle ID '%@' does not match active SideStore instance '%@'.\\n\\nThis operation is not allowed because SideStore cannot manage database containers other than its own." = "Target bundle ID '%@' does not match active SideStore instance '%@'.\\n\\nThis operation is not allowed because SideStore cannot manage database containers other than its own.";
+
+"TECHY THINGS" = "TECHY THINGS";
+
+"The %@ '%@' for %@ is missing a usage description." = "The %@ '%@' for %@ is missing a usage description.";
+
+"The active developer team has changed." = "The active developer team has changed.";
+
+"The AltStore app group could not be found." = "The AltStore app group could not be found.";
+
+"The app" = "The app";
+
+"the app" = "the app";
+
+"The app group “%@” could not be found." = "The app group “%@” could not be found.";
+
+"The app is in an invalid format." = "The app is in an invalid format.";
+
+"The app you are installing has a bundle ID (%@) that does not match the active app (%@). Would you like to proceed?" = "The app you are installing has a bundle ID (%@) that does not match the active app (%@). Would you like to proceed?";
+
+"The bundle ID does not match the one specified by the source." = "The bundle ID does not match the one specified by the source.";
+
+"The bundle ID “%@” does not match the one specified by the source (“%@”)." = "The bundle ID “%@” does not match the one specified by the source (“%@”).";
+
+"the bundle identifier %@" = "the bundle identifier %@";
+
+"The bundle identifier is invalid." = "The bundle identifier is invalid.";
+
+"The cached permissions for %@ do not match the source." = "The cached permissions for %@ do not match the source.";
+
+"The cached versions for %@ do not match the source." = "The cached versions for %@ do not match the source.";
+
+"The certificate could not be found." = "The certificate could not be found.";
+
+"The certificate's private key could not be found." = "The certificate's private key could not be found.";
+
+"The connection to AltServer was dropped." = "The connection to AltServer was dropped.";
+
+"The current pairing file is invalid or missing.\\n\\nPlease make sure to input a valid pairing file! If the issue persists, replace your pairing with iloader." = "The current pairing file is invalid or missing.\\n\\nPlease make sure to input a valid pairing file! If the issue persists, replace your pairing with iloader.";
+
+"The default SideStore source cannot be removed." = "The default SideStore source cannot be removed.";
+
+"The dependency '%@' could not be downloaded." = "The dependency '%@' could not be downloaded.";
+
+"The developer certificate could not be found." = "The developer certificate could not be found.";
+
+"The Developer disk located at %@ is incompatible with %@." = "The Developer disk located at %@ is incompatible with %@.";
+
+"the device" = "the device";
+
+"The device" = "The device";
+
+"The disk is incompatible with %@." = "The disk is incompatible with %@.";
+
+"the downloaded app" = "the downloaded app";
+
+"The downloaded version of %@ does not match the build number specified by the source.\\nExpected version: %@\\nFound version: %@" = "The downloaded version of %@ does not match the build number specified by the source.\\nExpected version: %@\\nFound version: %@";
+
+"The downloaded version of %@ does not match the version specified by the source.\\nExpected version: %@\\nFound version: %@" = "The downloaded version of %@ does not match the version specified by the source.\\nExpected version: %@\\nFound version: %@";
+
+"The following apps have been flagged:" = "The following apps have been flagged:";
+
+"the following apps:" = "the following apps:";
+
+"The identifier of the source “%@” has changed." = "The identifier of the source “%@” has changed.";
+
+"The latest version of %@ could not be downloaded." = "The latest version of %@ could not be downloaded.";
+
+"The logged-in Apple ID account has changed." = "The logged-in Apple ID account has changed.";
+
+"The more you open SideStore, the more chances it's given to refresh apps in the background." = "The more you open SideStore, the more chances it's given to refresh apps in the background.";
+
+"The more you use SideStore, the more often iOS will allow it to refresh apps in the background." = "The more you use SideStore, the more often iOS will allow it to refresh apps in the background.";
+
+"The operation is forbidden." = "The operation is forbidden.";
+
+"The operation returned an unknown result." = "The operation returned an unknown result.";
+
+"The operation timed out." = "The operation timed out.";
+
+"The private key for the active signing certificate is missing from this device's keychain." = "The private key for the active signing certificate is missing from this device's keychain.";
+
+"The process" = "The process";
+
+"The process '%@'" = "The process '%@'";
+
+"The provided anisette data is invalid." = "The provided anisette data is invalid.";
+
+"The provisioning profile for SideStore is corrupt or missing." = "The provisioning profile for SideStore is corrupt or missing.";
+
+"The requested app" = "The requested app";
+
+"the same bundle identifier" = "the same bundle identifier";
+
+"The selected certificate is already being used for this app. Please use the Resign option instead." = "The selected certificate is already being used for this app. Please use the Resign option instead.";
+
+"The selected pairing file is invalid or not usable. Please select a valid pairing file." = "The selected pairing file is invalid or not usable. Please select a valid pairing file.";
+
+"The SHA-256 hash of %@ does not match the hash specified by the source." = "The SHA-256 hash of %@ does not match the hash specified by the source.";
+
+"The signing certificate used to install SideStore has expired." = "The signing certificate used to install SideStore has expired.";
+
+"The signing certificate used to install SideStore was revoked on the Apple Developer portal." = "The signing certificate used to install SideStore was revoked on the Apple Developer portal.";
+
+"The signing certificate used to install “%@” differs from your active signing certificate. Please re-sign or reinstall the app." = "The signing certificate used to install “%@” differs from your active signing certificate. Please re-sign or reinstall the app.";
+
+"The signing certificate used to install “%@” has expired. Please re-sign or reinstall the app." = "The signing certificate used to install “%@” has expired. Please re-sign or reinstall the app.";
+
+"The signing certificate used to install “%@” was revoked on the Apple Developer portal. Please re-sign or reinstall the app." = "The signing certificate used to install “%@” was revoked on the Apple Developer portal. Please re-sign or reinstall the app.";
+
+"The source" = "The source";
+
+"The source “%@”" = "The source “%@”";
+
+"The source “%@” contains %@ for %@." = "The source “%@” contains %@ for %@.";
+
+"The source “%@” contains multiple apps with %@." = "The source “%@” contains multiple apps with %@.";
+
+"The source “%@” contains notarized apps, which are not supported by this version of SideStore." = "The source “%@” contains notarized apps, which are not supported by this version of SideStore.";
+
+"The source “%@” has been blocked by SideStore for security reasons." = "The source “%@” has been blocked by SideStore for security reasons.";
+
+"The source “%@” is not supported by this version of SideStore." = "The source “%@” is not supported by this version of SideStore.";
+
+"There are no SideStore sources." = "There are no SideStore sources.";
+
+"There was an error connecting to the device." = "There was an error connecting to the device.";
+
+"There was an issue communicating with the usbmuxd daemon." = "There was an issue communicating with the usbmuxd daemon.";
+
+"These are permissions required by “%@” that SideStore does not recognize. Make sure you understand them before continuing." = "These are permissions required by “%@” that SideStore does not recognize. Make sure you understand them before continuing.";
+
+"These permissions must be declared by the source in order for SideStore to install this app:" = "These permissions must be declared by the source in order for SideStore to install this app:";
+
+"These updates don't support iOS %@. Please update your device to the latest iOS version to install them." = "These updates don't support iOS %@. Please update your device to the latest iOS version to install them.";
+
+"this app" = "this app";
+
+"This app" = "This app";
+
+"This device is running iOS %@, but %@" = "This device is running iOS %@, but %@";
+
+"this device's OS version" = "this device's OS version";
+
+"This is meant for 'SideJITServer' and it only works on iOS 17+ " = "This is meant for 'SideJITServer' and it only works on iOS 17+ ";
+
+"This reinstallation registers the new signature with the OS and will terminate SideStore. You can reopen SideStore immediately once reinstallation is completed." = "This reinstallation registers the new signature with the OS and will terminate SideStore. You can reopen SideStore immediately once reinstallation is completed.";
+
+"This version of “\\(self.app.name)” requires additional permissions." = "This version of “\\(self.app.name)” requires additional permissions.";
+
+"This will also erase all backup data for this app." = "This will also erase all backup data for this app.";
+
+"This will remove all temporary files as well as backups for uninstalled apps." = "This will remove all temporary files as well as backups for uninstalled apps.";
+
+"This will replace all data you currently have in %@." = "This will replace all data you currently have in %@.";
+
+"This will replace any previous backups. Please leave SideStore open until the backup is complete." = "This will replace any previous backups. Please leave SideStore open until the backup is complete.";
+
+"Title" = "Title";
+
+"To ensure you can continue using SideStore, \\nthe app must be reinstalled now using the new certificate. Otherwise, you will be unable to refresh or open SideStore once the old certificate expires." = "To ensure you can continue using SideStore, \\nthe app must be reinstalled now using the new certificate. Otherwise, you will be unable to refresh or open SideStore once the old certificate expires.";
+
+"Today" = "Today";
+
+"Try Again" = "Try Again";
+
+"Unable to access backup." = "Unable to access backup.";
+
+"Unable to Add Source" = "Unable to Add Source";
+
+"Unable to attach to the app's process" = "Unable to attach to the app's process";
+
+"Unable to Change App Icon" = "Unable to Change App Icon";
+
+"Unable to Check for Updates" = "Unable to Check for Updates";
+
+"Unable to Clear Cache" = "Unable to Clear Cache";
+
+"Unable to close TCP port" = "Unable to close TCP port";
+
+"Unable to connect to core device proxy" = "Unable to connect to core device proxy";
+
+"Unable to connect to lockdown" = "Unable to connect to lockdown";
+
+"Unable to connect to process control" = "Unable to connect to process control";
+
+"Unable to connect to remote server" = "Unable to connect to remote server";
+
+"Unable to connect to SideJITServer. Please check that you are on the same Wi-Fi of and your Firewall has been set correctly on your server." = "Unable to connect to SideJITServer. Please check that you are on the same Wi-Fi of and your Firewall has been set correctly on your server.";
+
+"Unable to connect to TCP port" = "Unable to connect to TCP port";
+
+"Unable to connect to the device via %@ VPN. Please make sure LocalDevVPN is enabled and running! Reason: %@" = "Unable to connect to the device via %@ VPN. Please make sure LocalDevVPN is enabled and running! Reason: %@";
+
+"Unable to create app group backup directory." = "Unable to create app group backup directory.";
+
+"Unable to create backup directory." = "Unable to create backup directory.";
+
+"Unable to create DDI folder" = "Unable to create DDI folder";
+
+"Unable to create software tunnel" = "Unable to create software tunnel";
+
+"Unable to detach from the app's process" = "Unable to detach from the app's process";
+
+"Unable to download DDI" = "Unable to download DDI";
+
+"Unable to Export Detailed Log" = "Unable to Export Detailed Log";
+
+"Unable to Fetch Apps" = "Unable to Fetch Apps";
+
+"Unable to Fetch News" = "Unable to Fetch News";
+
+"Unable to find app; Please try refreshing SideJITServer from Settings." = "Unable to find app; Please try refreshing SideJITServer from Settings.";
+
+"Unable to get services from XPC" = "Unable to get services from XPC";
+
+"Unable to get value from lockdown" = "Unable to get value from lockdown";
+
+"Unable to install the app: \\(message)" = "Unable to install the app: \\(message)";
+
+"Unable to Launch SideStore" = "Unable to Launch SideStore";
+
+"Unable to Load Recommended Sources" = "Unable to Load Recommended Sources";
+
+"Unable to lookup DDI images" = "Unable to lookup DDI images";
+
+"Unable to manage profiles on the device" = "Unable to manage profiles on the device";
+
+"Unable to read app group backup." = "Unable to read app group backup.";
+
+"Unable to read images to memory" = "Unable to read images to memory";
+
+"Unable to refresh App\\n%@" = "Unable to refresh App\\n%@";
+
+"Unable to Refresh Store" = "Unable to Refresh Store";
+
+"Unable to Refresh “%@” Source" = "Unable to Refresh “%@” Source";
+
+"Unable to Remove Source" = "Unable to Remove Source";
+
+"Unable to uninstall the app" = "Unable to uninstall the app";
+
+"Undefined" = "Undefined";
+
+"Underlying Error" = "Underlying Error";
+
+"Underlying Errors" = "Underlying Errors";
+
+"Unknown" = "Unknown";
+
+"Unknown App" = "Unknown App";
+
+"Unknown deletion error" = "Unknown deletion error";
+
+"Unknown Source" = "Unknown Source";
+
+"Unsupported iOS Version" = "Unsupported iOS Version";
+
+"Unsupported Update Available" = "Unsupported Update Available";
+
+"Unsupported Updates Available" = "Unsupported Updates Available";
+
+"Update" = "Update";
+
+"Update %@" = "Update %@";
+
+"Update %@ Failed" = "Update %@ Failed";
+
+"Usbmuxd server is not listening on the device" = "Usbmuxd server is not listening on the device";
+
+"User Customizations" = "User Customizations";
+
+"Utilities" = "Utilities";
+
+"Version %@" = "Version %@";
+
+"View All" = "View All";
+
+"View All Apps" = "View All Apps";
+
+"View Error" = "View Error";
+
+"View More Details" = "View More Details";
+
+"View Recommended Sources" = "View Recommended Sources";
+
+"Warning" = "Warning";
+
+"What are inactive apps?" = "What are inactive apps?";
+
+"Without a valid pairing file, operations that require a pairing file (such as installing, refreshing, or resigning apps) will not function." = "Without a valid pairing file, operations that require a pairing file (such as installing, refreshing, or resigning apps) will not function.";
+
+"Would you like to add the source “%@”?" = "Would you like to add the source “%@”?";
+
+"Would you like to download the last version compatible with this device instead?" = "Would you like to download the last version compatible with this device instead?";
+
+"Would you like to install \\\"%@\\\"?" = "Would you like to install \\\"%@\\\"?";
+
+"Would you like to remove this app's extensions so they don't count towards your limit? There are \\(appBundle.appExtensions.count) Extensions" = "Would you like to remove this app's extensions so they don't count towards your limit? There are \\(appBundle.appExtensions.count) Extensions";
+
+"Would you like to revoke your previous certificates?\\n\\(certsText)" = "Would you like to revoke your previous certificates?\\n\\(certsText)";
+
+"Yes" = "Yes";
+
+"Yesterday" = "Yesterday";
+
+"You are not on iOS 17+ This will not work" = "You are not on iOS 17+ This will not work";
+
+"You are not signed in." = "You are not signed in.";
+
+"You can register another App ID in %@." = "You can register another App ID in %@.";
+
+"You can reset the pairing file when you cannot sideload apps or enable JIT. You need to restart SideStore." = "You can reset the pairing file when you cannot sideload apps or enable JIT. You need to restart SideStore.";
+
+"You cannot activate more than 3 apps with a non-developer Apple ID." = "You cannot activate more than 3 apps with a non-developer Apple ID.";
+
+"You do not appear to be connected to VPN.\\n\\nPlease make sure LocalDevVPN is connected and running! If the issue persists, replace your pairing with iloader or try restarting the device." = "You do not appear to be connected to VPN.\\n\\nPlease make sure LocalDevVPN is connected and running! If the issue persists, replace your pairing with iloader or try restarting the device.";
+
+"You do not appear to be connected to Wi-Fi or a wired network connection! Please connect to a Wi-Fi or wired connection." = "You do not appear to be connected to Wi-Fi or a wired network connection! Please connect to a Wi-Fi or wired connection.";
+
+"You do not appear to be connected to Wi-Fi!\\n\\nPlease connect to a Wi-Fi before attempting futher operations" = "You do not appear to be connected to Wi-Fi!\\n\\nPlease connect to a Wi-Fi before attempting futher operations";
+
+"You do not appear to be connected to Wi-Fi, Bridge or a Wired network connection!\\n\\nPlease connect to a Wi-Fi, Bridge or Wired connection before attempting futher operations" = "You do not appear to be connected to Wi-Fi, Bridge or a Wired network connection!\\n\\nPlease connect to a Wi-Fi, Bridge or Wired connection before attempting futher operations";
+
+"You have already exhausted the limit of 1 certificate for free developer accounts. Please revoke the existing certificate and try again." = "You have already exhausted the limit of 1 certificate for free developer accounts. Please revoke the existing certificate and try again.";
+
+"You have already exhausted the maximum certificates that can be generated by a paid developer account. Please revoke at least one certificate and try again." = "You have already exhausted the maximum certificates that can be generated by a paid developer account. Please revoke at least one certificate and try again.";
+
+"You must add this source before installing apps from it.\\n\\n“%@” will begin downloading once it has been added." = "You must add this source before installing apps from it.\\n\\n“%@” will begin downloading once it has been added.";
+
+"You must also delete it from the home screen to fully uninstall the app." = "You must also delete it from the home screen to fully uninstall the app.";
+
+"Your active custom/third-party signing certificate (Team: %@) has expired.\\n\\nIf you did not intend to use a custom certificate, please reset it in Settings -> Advanced -> Certificates." = "Your active custom/third-party signing certificate (Team: %@) has expired.\\n\\nIf you did not intend to use a custom certificate, please reset it in Settings -> Advanced -> Certificates.";
+
+"Your active custom/third-party signing certificate (Team: %@) was revoked on the Developer Portal.\\n\\nIf you did not intend to use a custom certificate, please reset it in Settings -> Advanced -> Certificates." = "Your active custom/third-party signing certificate (Team: %@) was revoked on the Developer Portal.\\n\\nIf you did not intend to use a custom certificate, please reset it in Settings -> Advanced -> Certificates.";
+
+"Your Apple ID has no developer teams?" = "Your Apple ID has no developer teams?";
+
+"your device" = "your device";
+
+"Your device must be running iOS 15.0 or later to install SideStore." = "Your device must be running iOS 15.0 or later to install SideStore.";
+
+"Your pledge is no longer active. Please renew it to continue using %@ normally." = "Your pledge is no longer active. Please renew it to continue using %@ normally.";
+
+"“%@” Blocked" = "“%@” Blocked";
+
+"“%@” could not be added to SideStore." = "“%@” could not be added to SideStore.";
+
+"“\\(self.app.name)” will be automatically given these permissions once installed." = "“\\(self.app.name)” will be automatically given these permissions once installed.";
+
+"Sources" = "Sources";
+
+"Settings" = "Settings";
+
+"Sign In" = "Sign In";
+
+"Error Log" = "Error Log";
+
+"News" = "News";

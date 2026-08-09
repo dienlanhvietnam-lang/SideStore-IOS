@@ -49,7 +49,7 @@ final class SourcesViewController: UICollectionViewController
         navigationItem.largeTitleDisplayMode = .automatic
 
         // Set title
-        navigationItem.title = "Sources"
+        navigationItem.title = NSLocalizedString("Sources", comment: "Sources tab title")
         navigationController?.navigationBar.layoutMargins.left = 20
         
         let layout = self.makeLayout()
