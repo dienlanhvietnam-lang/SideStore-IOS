@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% block title %}{{ title }}{% endblock %} · Phản biện công dân</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Literata:opsz,wght@7..72,500;7..72,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+  <div class="bg-atmosphere" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="/">Phản biện công dân</a>
+    <p class="tagline">Phân tích video ngắn · Phản biện văn xuôi · Hướng lợi dân</p>
+  </header>
+  <main class="shell">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <p>MVP nội bộ — biên tập viên chịu trách nhiệm trước khi đăng tải. Không deepfake, không kích động.</p>
+  </footer>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

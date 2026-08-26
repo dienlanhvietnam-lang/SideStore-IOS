@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="job-head" data-job-id="{{ job.id }}" data-status="{{ job.status.value }}">
+  <p class="eyebrow">Mã việc · {{ job.id }}</p>
+  <h1>{{ job.source_label or "Nguồn chưa đặt tên" }}</h1>
+  <p class="status-line" id="status-line">
+    <span class="pill" id="status-pill">{{ job.status.value }}</span>
+    <span id="status-msg">{{ job.progress_message }}</span>
+  </p>
+</section>
+
+{% if job.status.value != "done" and job.status.value != "failed" %}
+<section class="progress-panel" id="progress-panel">
+  <div class="spinner" aria-hidden="true"></div>
+  <p>Đang xử lý — trang sẽ tự cập nhật.</p>
+</section>
+{% endif %}
+
+{% if job.error %}
+<section class="banner banner-error" id="error-panel">
+  <strong>Không hoàn tất:</strong> {{ job.error }}
+</section>
+{% endif %}
+
+<section class="grid-two" id="result-panel" {% if not job.analysis %}hidden{% endif %}>
+  <article class="stack">
+    <h2>Tóm tắt &amp; phân tích</h2>
+    <div class="block">
+      <h3>Tóm tắt video</h3>
+      <p id="tom-tat">{{ job.analysis.tom_tat_video if job.analysis else "" }}</p>
+    </div>
+    <div class="block">
+      <h3>Các khẳng định</h3>
+      <ul id="khang-dinh">
+        {% if job.analysis %}
+          {% for item in job.analysis.cac_khang_dinh %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+    <div class="block">
+      <h3>Lỗ hổng lập luận</h3>
+      <ul id="lo-hong">
+        {% if job.analysis %}
+          {% for item in job.analysis.lo_hong_lap_luan %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+    <div class="block">
+      <h3>Điểm đúng cần thừa nhận</h3>
+      <ul id="diem-dung">
+        {% if job.analysis %}
+          {% for item in job.analysis.diem_dung_can_thua_nhan %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+    <div class="block">
+      <h3>Giá trị công dân</h3>
+      <p id="gia-tri">{{ job.analysis.gia_tri_cong_dan if job.analysis else "" }}</p>
+    </div>
+    <div class="block">
+      <h3>Gợi ý hành động</h3>
+      <ul id="hanh-dong">
+        {% if job.analysis %}
+          {% for item in job.analysis.goi_y_hanh_dong %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+    <p class="meta-line">
+      Độ tin cậy ước lượng:
+      <strong id="do-tin-cay">{{ job.analysis.do_tin_cay if job.analysis else "" }}</strong>
+      · Chế độ:
+      <strong id="che-do">{{ job.analysis.che_do if job.analysis else "" }}</strong>
+    </p>
+  </article>
+
+  <article class="stack prose-stack">
+    <div class="prose-toolbar">
+      <h2>Phản biện văn xuôi</h2>
+      <div class="toolbar-actions">
+        <button type="button" class="btn-ghost" id="btn-copy">Sao chép</button>
+        <button type="button" class="btn-primary" id="btn-save">Lưu chỉnh sửa</button>
+      </div>
+    </div>
+    <textarea id="van-xoi" class="prose-editor" rows="22">{% if job.analysis %}{{ job.analysis.phan_bien_van_xoi }}{% endif %}</textarea>
+    <p class="hint" id="save-hint">Biên tập viên có thể sửa trực tiếp trước khi đăng.</p>
+  </article>
+</section>
+
+<details class="raw-details">
+  <summary>Bản ghi lời thoại &amp; khung hình</summary>
+  <h3>Transcript</h3>
+  <pre id="transcript">{{ job.transcript }}</pre>
+  <h3>Ghi chú khung hình</h3>
+  <ul id="frame-notes">
+    {% for note in job.frame_notes %}
+    <li>{{ note }}</li>
+    {% endfor %}
+  </ul>
+</details>
+
+<p class="back-link"><a href="/">← Tạo phân tích mới</a></p>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/app.js"></script>
+{% endblock %}

@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero-panel">
+  <h1>Soạn phản biện văn xuôi từ video ngắn</h1>
+  <p class="lede">
+    Tải video, dán liên kết, hoặc nhập lời thoại. Hệ thống tách âm thanh – khung hình,
+    nhận dạng tiếng Việt (khi có API), rồi viết phản biện mạch lạc nhằm làm rõ sự thật
+    và gợi ý hành động hợp pháp có lợi cho cộng đồng.
+  </p>
+  {% if demo_mode %}
+  <p class="banner banner-demo">
+    Đang chạy <strong>chế độ demo</strong> (chưa có khóa API). Vẫn phân tích được cấu trúc;
+    phần văn xuôi là mẫu định hướng công dân. Sao chép <code>.env.example</code> thành
+    <code>.env</code> và thêm <code>OPENAI_API_KEY</code> để bật nhận dạng giọng nói + LLM thật.
+  </p>
+  {% elif has_llm %}
+  <p class="banner banner-ok">Đã kết nối mô hình ngôn ngữ. Pipeline đầy đủ sẵn sàng.</p>
+  {% endif %}
+</section>
+
+<section class="form-panel">
+  <form action="/api/phan-tich" method="post" enctype="multipart/form-data" id="form-phan-tich">
+    <label class="field">
+      <span>Nhãn nguồn (tuỳ chọn)</span>
+      <input type="text" name="source_label" placeholder="Ví dụ: Video dư luận về chính sách X" />
+    </label>
+
+    <label class="field">
+      <span>Tải video lên (mp4, webm, mov…)</span>
+      <input type="file" name="video" accept="video/*,.mp4,.webm,.mov,.mkv" />
+    </label>
+
+    <label class="field">
+      <span>Hoặc dán liên kết video</span>
+      <input type="url" name="url" placeholder="https://…" />
+    </label>
+
+    <label class="field">
+      <span>Hoặc / kèm bản ghi lời thoại (tiếng Việt)</span>
+      <textarea name="transcript" rows="8" placeholder="Dán nội dung nói trong video nếu đã có sẵn…"></textarea>
+    </label>
+
+    <div class="actions">
+      <button type="submit" class="btn-primary">Phân tích &amp; soạn phản biện</button>
+    </div>
+  </form>
+</section>
+
+<section class="principles">
+  <h2>Nguyên tắc biên tập</h2>
+  <ul>
+    <li>Thừa nhận phần đúng trước khi chỉ lỗ hổng.</li>
+    <li>Không bịa số liệu; thiếu căn cứ thì nói rõ.</li>
+    <li>Phản biện ý tưởng — không công kích cá nhân.</li>
+    <li>Ưu tiên giải pháp ôn hòa, hợp pháp, có ích cho dân.</li>
+    <li>Người duyệt trước khi xuất bản lên mạng xã hội.</li>
+  </ul>
+</section>
+
+<section class="roadmap">
+  <h2>Hướng mở rộng (sau MVP)</h2>
+  <ol>
+    <li>Vision LLM đọc chữ/overlay trên khung hình.</li>
+    <li>Kho nguồn RAG (văn bản pháp luật, số liệu thống kê).</li>
+    <li>Dựng short 9:16 (TTS + phụ đề) từ văn xuôi đã duyệt.</li>
+    <li>Hàng đợi nhiều việc, phân quyền biên tập viên.</li>
+  </ol>
+</section>
+{% endblock %}
